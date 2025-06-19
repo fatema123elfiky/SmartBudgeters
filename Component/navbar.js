@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const navbarHTML = `
     <nav class="navbar">
         <div class="nav-container">
-            <a href="/SmartBudgeters/Dash&panels/dashboard.html" class="nav-logo">
+            <a href="Dash&panels/dashboard.html" class="nav-logo">
                 <i class="fas fa-wallet"></i> Smart Budgeters
             </a>
             <ul class="nav-menu">
